@@ -5,9 +5,42 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #CAD2C5;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.navbar {
+  background: #2f3e46de;
+}
+
+.navbar-brand {
+  font-size: 40px;
+  color: white;
+  font-family: "Comfortaa"; 
+}
+
+.nav-link {
+  color: white;
+  font-family: "Comfortaa";
+  margin-right: 25px;
+  
+}
+
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgb(235, 195, 64);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.footer-text {
+  color: black;
+  font-family: "Comfortaa";
 }
