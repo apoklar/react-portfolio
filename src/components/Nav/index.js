@@ -5,6 +5,7 @@ function Nav() {
     return (
         <div>
             <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet"></link>
+            
             <nav className="navbar navbar-expand-lg">
                 <div className="container-fluid">
                     <p className="navbar-brand">Andrea Poklar</p>

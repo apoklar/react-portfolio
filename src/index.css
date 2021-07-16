@@ -27,7 +27,10 @@ code {
   color: white;
   font-family: "Comfortaa";
   margin-right: 25px;
-  
+}
+
+.nav-link:hover {
+  color:black
 }
 
 .footer{
@@ -43,4 +46,35 @@ code {
 .footer-text {
   color: black;
   font-family: "Comfortaa";
+}
+
+.name {
+  font-family: "Comfortaa";
+  font-weight: bold;
+}
+
+.email {
+  font-family: "Comfortaa";
+  font-weight: bold;
+}
+
+.message {
+  font-family: "Comfortaa";
+  font-weight: bold;
+}
+
+.submit {
+  font-family: "Comfortaa";
+  border-radius: 6px;
+  background: teal;
+  font-weight: bold;
+}
+
+.submit:hover {
+  background-color:rgb(0, 92, 92);
+}
+
+.title {
+  font-family: "Comfortaa";
+  font-weight: bold;
 }
