@@ -87,3 +87,28 @@ code {
   font-size: 17px;
   font-weight: bold;
 } 
+
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+.github {
+  color: black;
+}
+
+.github:hover {
+  color: teal
+}
+
+.linkedin {
+  color: black;
+}
+
+.linkedin:hover {
+  color: teal
+}
