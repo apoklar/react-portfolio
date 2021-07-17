@@ -14,14 +14,14 @@ function Nav() {
                     </button>
                     <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav">
-                        <Link to="/about"><li className="nav-item">
+                        <Link to="/about" style={{ textDecoration: 'none' }}><li className="nav-item">
                         <p className="nav-link" aria-current="page">About</p>
                         </li></Link>
-                        <Link to="/contact"><li className="nav-item">
-                        <p className="nav-link" aria-current="page">Contact</p>
-                        </li></Link>
-                        <Link to="/project"><li className="nav-item">
+                        <Link to="/project" style={{ textDecoration: 'none' }}><li className="nav-item">
                         <p className="nav-link" aria-current="page">Projects</p>
+                        </li></Link>
+                        <Link to="/contact" style={{ textDecoration: 'none' }}><li className="nav-item">
+                        <p className="nav-link" aria-current="page">Contact</p>
                         </li></Link>
                     </ul>
                     </div>
