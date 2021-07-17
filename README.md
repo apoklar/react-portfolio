@@ -2,9 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project
 
-In the project directory, you can run:
+For this project, React was used to create a quality portfolio that features different tabs that go to different pages. The different pages include an About, Contact, and Projects page.
+
 
 ### `npm start`
 
