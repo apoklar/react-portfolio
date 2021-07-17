@@ -88,6 +88,11 @@ code {
   font-weight: bold;
 } 
 
+.about-page {
+  width: 700px;
+  margin: 0 auto;
+}
+
 .page-container {
   position: relative;
   min-height: 100vh;
