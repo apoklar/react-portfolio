@@ -6,6 +6,7 @@ function Project() {
     return (
         <div>
         <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet"></link>
+        <br></br>
             <h1 data-testid="h1tag" className="title">Projects</h1>
             
             <div className="pokemon-img">

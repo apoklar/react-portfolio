@@ -4,6 +4,7 @@ function About() {
     return (
         <div className="about-page">
             <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet"></link>
+            <br></br>
             <h1 data-testid="h1tag" className="title">About Me</h1>
 
             <h3 className="about">Full stack web developer with a background in some mathematics and engineering from the University of Houston and also received an Associates of Science. Recent graduate of the coding bootcamp from the University of Texas at Austin where I earned a Certificate in Full Stack Web Development.</h3>

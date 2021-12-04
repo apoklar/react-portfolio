@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #CAD2C5;
+  background: #78c1e060;
 }
 
 code {
@@ -19,7 +19,7 @@ code {
 }
 
 .navbar {
-  background: #2f3e46de;
+  background: #0a3832;
 }
 
 .navbar-brand {

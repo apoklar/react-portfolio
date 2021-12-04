@@ -24,7 +24,9 @@ function Nav() {
                         <Link to="/contact" style={{ textDecoration: 'none' }}><li className="nav-item">
                         <p className="nav-link" aria-current="page">Contact</p>
                         </li></Link>
-                        <a href={PDF}>Resume</a>
+                        <a href={PDF} style={{ textDecoration: 'none' }}><li className="nav-item">
+                        <p className="nav-link" aria-current="page">Resume</p>
+                        </li></a>
                     </ul>
                     </div>
                 </div>
