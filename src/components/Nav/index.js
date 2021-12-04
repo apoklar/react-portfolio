@@ -1,5 +1,6 @@
 import React from 'react';
-import {Link} from 'react-router-dom'
+import {Link} from 'react-router-dom';
+import PDF from './src/resume1.pdf';
 
 function Nav() {
     return (
@@ -23,6 +24,7 @@ function Nav() {
                         <Link to="/contact" style={{ textDecoration: 'none' }}><li className="nav-item">
                         <p className="nav-link" aria-current="page">Contact</p>
                         </li></Link>
+                        <a href={PDF}>Resume</a>
                     </ul>
                     </div>
                 </div>
